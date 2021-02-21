@@ -1,3 +1,1 @@
-Instrucciones:
-Ninguna
-Esto es un jemplo
+Instrucciones. Ninguna, esto es un ejemplo...
